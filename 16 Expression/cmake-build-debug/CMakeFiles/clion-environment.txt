@@ -1,0 +1,3 @@
+ToolSet: 3.20@C:\CLion\MinGW\MinGW+离线包\MinGW
+Options: 
+CMake: 3.8.2@C:\CLion\CLion.2017.2.3\setup\CLion 2017.2.3\bin\cmake\bin\cmake.exe

@@ -1,0 +1,16 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/DDDData Structure/project/16 Expression/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/CLion/MinGW/MinGW+离线包/MinGW/bin/mingw32-make.exe" "cmTC_56dcd/fast"
+C:/CLion/MinGW/MinGW+离线包/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_56dcd.dir\build.make CMakeFiles/cmTC_56dcd.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/DDDData Structure/project/16 Expression/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_56dcd.dir/testCCompiler.c.obj
+C:\CLion\MinGW\MinGW+绂荤嚎鍖匼MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_56dcd.dir\testCCompiler.c.obj   -c "C:\DDDData Structure\project\16 Expression\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+系统找不到指定的路径。
+CMakeFiles\cmTC_56dcd.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_56dcd.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_56dcd.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/DDDData Structure/project/16 Expression/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:125: recipe for target 'cmTC_56dcd/fast' failed
+mingw32-make.exe: *** [cmTC_56dcd/fast] Error 2
+
+
