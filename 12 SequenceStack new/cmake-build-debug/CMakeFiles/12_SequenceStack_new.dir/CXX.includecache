@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/DDDData Structure/project/00 xulun/Status.h
+
+C:/DDDData Structure/project/12 SequenceStack new/Sequencestack.C
+Sequencestack.h
+C:/DDDData Structure/project/12 SequenceStack new/Sequencestack.h
+
+C:/DDDData Structure/project/12 SequenceStack new/Sequencestack.h
+stdio.h
+-
+stdlib.h
+-
+../00 xulun/Status.h
+C:/DDDData Structure/project/00 xulun/Status.h
+
+C:/DDDData Structure/project/12 SequenceStack new/main.cpp
+stdio.h
+-
+Sequencestack.C
+C:/DDDData Structure/project/12 SequenceStack new/Sequencestack.C
+

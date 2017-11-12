@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/DDDData Structure/project/00 xulun/Status.h
+
+C:/DDDData Structure/project/08 DualCycleLinkedList/DualCycleLinkedList-main.c
+stdio.h
+-
+DualCycleLinkedList.c
+C:/DDDData Structure/project/08 DualCycleLinkedList/DualCycleLinkedList.c
+
+C:/DDDData Structure/project/08 DualCycleLinkedList/DualCycleLinkedList.c
+DualCycleLinkedList.h
+C:/DDDData Structure/project/08 DualCycleLinkedList/DualCycleLinkedList.h
+
+C:/DDDData Structure/project/08 DualCycleLinkedList/DualCycleLinkedList.h
+stdlib.h
+-
+../00 xulun/Status.h
+C:/DDDData Structure/project/00 xulun/Status.h
+
